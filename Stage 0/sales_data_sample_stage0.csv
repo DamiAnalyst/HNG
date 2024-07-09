@@ -1,0 +1,52 @@
+Row Labels,Sum of QTR_ID,,,,,,,,
+Classic Cars,2684,,,,,,,,
+Motorcycles,884,,,,,,,,
+Planes,800,,,,,,,,
+Ships,619,,,,,,,,
+Trains,209,,,,,,,,
+Trucks and Buses,837,,,,,,,,
+Vintage Cars,1639,,,,,,,,
+Grand Total,7672,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Row Labels,Sum of QTR_ID,,,,,,,
+,Cancelled,152,,,,,,,
+,Disputed,28,,,,,,,
+,In Process,82,,,,,,,
+,On Hold,100,,,,,,,
+,Resolved,95,,,,,,,
+,Shipped,7215,,,,,,,
+,Grand Total,7672,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Row Labels,Sum of QTR_ID,,,,,,,,
+Australia,511,,,,,,,,
+Austria,153,,,,,,,Row Labels,Sum of SALES
+Belgium,80,,,,,,,Australia,630623.1
+Canada,206,,,,,,,Austria,202062.53
+Denmark,181,,,,,,,Belgium,108412.62
+Finland,202,,,,,,,Canada,224078.56
+France,776,,,,,,,Denmark,245637.15
+Germany,198,,,,,,,Finland,329581.91
+Ireland,30,,,,,,,France,1110916.52
+Italy,329,,,,,,,Germany,220472.09
+Japan,110,,,,,,,Ireland,57756.43
+Norway,275,,,,,,,Italy,374674.31
+Philippines,56,,,,,,,Japan,188167.81
+Singapore,212,,,,,,,Norway,307463.7
+Spain,859,,,,,,,Philippines,94015.73
+Sweden,184,,,,,,,Singapore,288488.41
+Switzerland,65,,,,,,,Spain,1215686.92
+UK,431,,,,,,,Sweden,210014.21
+USA,2814,,,,,,,Switzerland,117713.56
+Grand Total,7672,,,,,,,UK,478880.46
+,,,,,,,,USA,3627982.83
+,,,,,,,,Grand Total,10032628.85
